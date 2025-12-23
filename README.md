@@ -39,7 +39,10 @@ I care more about making things work than making them look fancy.
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis028&show_icons=true&theme=tokyonight)
+<a href="https://github.com/Elvis028">
+  <img src="https://streak-stats.demolab.com?user=Elvis028&theme=tokyonight" />
+</a>
+
 
 ---
 

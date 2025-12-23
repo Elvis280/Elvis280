@@ -1,4 +1,4 @@
-# Devansh Sharma (Elvis028)
+# Devansh Sharma (Elvis280)
 
 > backend • ai agents • python
 
@@ -40,7 +40,7 @@ I care more about making things work than making them look fancy.
 
 ## 📈 GitHub Stats
 <a href="https://github.com/Elvis028">
-  <img src="https://streak-stats.demolab.com?user=Elvis028&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Elvis280&theme=tokyonight&hide_border=true" />
 </a>
 
 

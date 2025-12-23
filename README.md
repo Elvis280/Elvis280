@@ -39,7 +39,7 @@ I care more about making things work than making them look fancy.
 ---
 
 ## 📈 GitHub Stats
-<a href="https://github.com/Elvis028">
+<a href="https://github.com/Elvis280">
   <img src="https://streak-stats.demolab.com?user=Elvis280&theme=tokyonight&hide_border=true" />
 </a>
 

@@ -1,55 +1,62 @@
-# 👋 Hey, I'm Devansh Sharma (Elvis028)
-
-I like building things, breaking them, and learning why they broke.
-
-Currently exploring **AI agents, backend systems, and LLM-powered workflows** with Python.
-
----
-
-## 🧠 What I’m Focused On
-- 🤖 Prototyping AI agents using LLMs  
-- 🔧 Building backend APIs with FastAPI  
-- 🧪 Experimenting with tool calling, prompts, and workflows  
-- 🌐 Learning how to turn ideas into working systems
+<h1 align="center">Hi, I'm Devansh Sharma 👋</h1>
+<p align="center">
+  <b>Backend-focused developer exploring AI agents & LLM workflows</b>
+</p>
 
 ---
 
-## ⚙️ Skills & Technologies
+### 🧭 What I'm Doing Right Now
+- 🤖 Prototyping **LLM-powered AI agents**
+- 🔧 Building **FastAPI backends**
+- 🧪 Turning rough ideas into working demos
+- 🌱 Learning by shipping small projects
 
-### 🧠 AI / GenAI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Tool Calling
-- Agentic Concepts (learning & prototyping)
+---
 
-### 🛠 Backend
-- Python
-- FastAPI
-- REST APIs
+### 🛠 Tech I Actually Use
 
-### 🌐 Frontend (basics)
-- HTML, CSS, JavaScript
-- React (basic)
+**🧠 AI / GenAI**
+- LLM APIs (Gemini / OpenAI)  
+- Prompt design & structured outputs  
+- Agentic workflows (early stage)
 
-### 🧰 Tools
-- Git & GitHub
-- Kaggle Notebooks
+**🔧 Backend**
+- Python  
+- FastAPI  
+- REST APIs  
+
+**🌐 Frontend (basics)**
+- HTML, CSS, JavaScript  
+- React  
+
+**🧰 Tools**
+- Git & GitHub  
+- Kaggle Notebooks  
 - MySQL (basics)
 
 ---
 
-## 🚀 Projects
-- 🧩 **AI Agent Prototypes** — small experiments exploring agent behavior & workflows  
-- 🌐 **Web3 DApp (Workshop)** — first hands-on deployment on blockchain  
-- 🔧 **Backend APIs** — practice projects with FastAPI
+### 🚀 What You'll Find Here
+I keep my repos minimal — no tutorial dumps.
 
-(Keeping repos minimal and focused as I improve.)
+- 🧩 **AI Agent Prototypes**  
+  Small experiments to understand agent behavior & tool calling.
+
+- 🔧 **Backend APIs**  
+  Practice projects with FastAPI and API design.
+
+- 🌐 **Web3 DApp (Workshop)**  
+  First hands-on DApp deployment on blockchain.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis028&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elvis028&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-> Still learning. Still building. Still shipping.
+<p align="center">
+  <i>Still learning. Still building. Still shipping.</i>
+</p>
